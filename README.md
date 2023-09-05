@@ -4,7 +4,8 @@
 ## Description
 1000 Hours Filipino English audio data captured by mobile phones, recorded by Filipino native speakers. The recorded text is designed by linguistic experts, covering generic, interactive, on-board, home and other categories. The text has been proofread manually with high accuracy; this data set can be used for automatic speech recognition, machine translation, and voiceprint recognition.
 
-For more details, please refer to the link: https://bit.ly/3UGKfhS
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1124?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
